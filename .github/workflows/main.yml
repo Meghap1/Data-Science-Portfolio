@@ -1,0 +1,46 @@
+Data-Science-Portfolio/
+│
+├─ 01_EDA_Visualization/
+│   ├─ data/
+│   │   └─ dataset.csv
+│   ├─ notebooks/
+│   │   └─ EDA_Visualization.ipynb
+│   ├─ scripts/
+│   │   └─ data_cleaning.py
+│   └─ README.md
+│
+├─ 02_Regression_Project/
+│   ├─ data/
+│   │   └─ house_prices.csv
+│   ├─ notebooks/
+│   │   └─ House_Price_Prediction.ipynb
+│   ├─ scripts/
+│   │   └─ model_training.py
+│   └─ README.md
+│
+├─ 03_Classification_Project/
+│   ├─ data/
+│   │   └─ telecom_churn.csv
+│   ├─ notebooks/
+│   │   └─ Churn_Prediction.ipynb
+│   ├─ scripts/
+│   │   └─ model_training.py
+│   └─ README.md
+│
+├─ 04_NLP_Project/
+│   ├─ data/
+│   │   └─ product_reviews.csv
+│   ├─ notebooks/
+│   │   └─ Sentiment_Analysis.ipynb
+│   ├─ scripts/
+│   │   └─ text_preprocessing.py
+│   └─ README.md
+│
+├─ 05_Deployment_Dashboard/
+│   ├─ notebooks/
+│   │   └─ Dashboard_Analysis.ipynb
+│   ├─ app/
+│   │   └─ streamlit_app.py
+│   └─ README.md
+│
+└─ README.md  (Main portfolio overview)
